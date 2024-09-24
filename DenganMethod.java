@@ -25,7 +25,7 @@ public class DenganMethod {
     }
 
     public static void tampilkanDetailGaji(int gajiPokok, int tunjanganTransport, int tunjanganMakan, int bonus, int pajak, int gajiBersih) {
-        System.out.println("Gaji Pokok: " + gajiPokok);
+        System.out.println("Gaaji Pokok: " + gajiPokok);
         System.out.println("Tunjangan Transport: " + tunjanganTransport);
         System.out.println("Tunjangan Makan: " + tunjanganMakan);
         System.out.println("Bonus: " + bonus);
